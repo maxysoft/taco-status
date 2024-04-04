@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/atomic-wax.tacocrypto.io.ico",
     "slug": "atomic",
     "status": "up",
-    "uptime": "1.52%",
-    "uptimeDay": "1.52%",
-    "uptimeWeek": "1.52%",
-    "uptimeMonth": "1.52%",
-    "uptimeYear": "1.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 534,
     "timeDay": 534,
     "timeWeek": 534,
     "timeMonth": 534,
     "timeYear": 534,
-    "dailyMinutesDown": {
-      "2024-04-04": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
