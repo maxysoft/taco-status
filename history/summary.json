@@ -22,18 +22,20 @@
     "url": "https://api-wax.tacocrypto.io/hyperion/v2/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-wax.tacocrypto.io.ico",
     "slug": "hyperion",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 334,
-    "timeWeek": 242,
-    "timeMonth": 245,
-    "timeYear": 245,
-    "dailyMinutesDown": {}
+    "time": 241,
+    "timeDay": 266,
+    "timeWeek": 237,
+    "timeMonth": 241,
+    "timeYear": 241,
+    "dailyMinutesDown": {
+      "2024-04-12": 0
+    }
   },
   {
     "name": "Atomic",
