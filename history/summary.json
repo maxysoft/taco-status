@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 669,
-    "timeWeek": 516,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "time": 459,
+    "timeDay": 363,
+    "timeWeek": 502,
+    "timeMonth": 459,
+    "timeYear": 459,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-wax.tacocrypto.io.ico",
     "slug": "hyperion",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
-    "time": 231,
-    "timeDay": 480,
-    "timeWeek": 238,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 235,
+    "timeDay": 292,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2024-04-12": 89
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 497,
-    "timeDay": 633,
-    "timeWeek": 504,
-    "timeMonth": 497,
-    "timeYear": 497,
+    "time": 488,
+    "timeDay": 363,
+    "timeWeek": 491,
+    "timeMonth": 488,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   }
 ]
